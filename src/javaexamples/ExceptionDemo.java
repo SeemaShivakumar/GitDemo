@@ -11,6 +11,7 @@ public class ExceptionDemo {
 		try {
 			int k = i/j;
 			System.out.println("value" +k);
+			System.out.println("GIT DEMO");
 		}
        catch(ArithmeticException ae) {
 			System.out.println("Arithmetic error");

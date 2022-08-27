@@ -5,8 +5,12 @@ import java.util.ArrayList;
 public class ArrayListExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// TODO Auto-generated method status
+		System.out.println("Master Branch1");
+		System.out.println("Master Branch2");
+		System.out.println("Master Branch3");
+		System.out.println("GIT DEMO");
+		
 		ArrayList<String> al = new ArrayList<String>();
 		al.add("Seema");//add elements in array
 		al.add("Acchhu");
